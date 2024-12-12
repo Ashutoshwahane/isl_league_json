@@ -1,0 +1,133 @@
+{
+  "team": "Kerala Blasters",
+  "upcoming_matches": [
+    {
+      "date": "November 24, 2024",
+      "dateinnum": "24/11/2024",
+      "opponent": "Chennaiyin FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "November 28, 2024",
+      "dateinnum": "28/11/2024",
+      "opponent": "FC Goa",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "December 7, 2024",
+      "dateinnum": "07/12/2024",
+      "opponent": "Bengaluru FC",
+      "venue": "Sree Kanteerava Stadium, Bengaluru",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "December 14, 2024",
+      "dateinnum": "14/12/2024",
+      "opponent": "Mohun Bagan SG",
+      "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "December 22, 2024",
+      "dateinnum": "22/12/2024",
+      "opponent": "Mohammedan SC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "January 5, 2025",
+      "dateinnum": "05/01/2025",
+      "opponent": "Jamshedpur FC",
+      "venue": "JRD Tata Sports Complex, Jamshedpur",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "January 13, 2025",
+      "dateinnum": "13/01/2025",
+      "opponent": "Odisha FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "January 18, 2025",
+      "dateinnum": "18/01/2025",
+      "opponent": "NorthEast United FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "January 24, 2025",
+      "dateinnum": "24/01/2025",
+      "opponent": "East Bengal FC",
+      "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "January 30, 2025",
+      "dateinnum": "30/01/2025",
+      "opponent": "Chennaiyin FC",
+      "venue": "Jawaharlal Nehru Stadium, Chennai",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "February 15, 2025",
+      "dateinnum": "15/02/2025",
+      "opponent": "Mohun Bagan SG",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "February 22, 2025",
+      "dateinnum": "22/02/2025",
+      "opponent": "Hyderabad FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "March 1, 2025",
+      "dateinnum": "01/03/2025",
+      "opponent": "Jamshedpur FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "March 5, 2025",
+      "dateinnum": "05/03/2025",
+      "opponent": "FC Goa",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "March 7, 2025",
+      "dateinnum": "07/03/2025",
+      "opponent": "Mumbai City FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "March 12, 2025",
+      "dateinnum": "12/03/2025",
+      "opponent": "Hyderabad FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "time": "7:30 PM",
+      "competition": "Indian Super League"
+    }
+  ]
+}

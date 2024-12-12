@@ -1,0 +1,150 @@
+
+{
+  "league": "Indian Super League",
+  "season": "2024/25",
+  "standings": [
+    {
+      "team": "Mohun Bagan",
+      "played": 10,
+      "wins": 7,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 19,
+      "goals_against": 8,
+      "goal_difference": 11,
+      "points": 23
+    },
+    {
+      "team": "Bengaluru",
+      "played": 11,
+      "wins": 7,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 21,
+      "goals_against": 13,
+      "goal_difference": 8,
+      "points": 23
+    },
+    {
+      "team": "Punjab",
+      "played": 9,
+      "wins": 5,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 16,
+      "goals_against": 9,
+      "goal_difference": 7,
+      "points": 18
+    },
+    {
+      "team": "Goa",
+      "played": 10,
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 19,
+      "goals_against": 13,
+      "goal_difference": 6,
+      "points": 18
+    },
+    {
+      "team": "Odisha FC",
+      "played": 11,
+      "wins": 5,
+      "draws": 1,
+      "losses": 5,
+      "goals_for": 23,
+      "goals_against": 16,
+      "goal_difference": 7,
+      "points": 16
+    },
+    {
+      "team": "NorthEast Utd",
+      "played": 11,
+      "wins": 4,
+      "draws": 3,
+      "losses": 4,
+      "goals_for": 21,
+      "goals_against": 18,
+      "goal_difference": 3,
+      "points": 15
+    },
+    {
+      "team": "Jamshedpur",
+      "played": 9,
+      "wins": 4,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 14,
+      "goals_against": 20,
+      "goal_difference": -6,
+      "points": 15
+    },
+    {
+      "team": "Mumbai City",
+      "played": 10,
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 13,
+      "goals_against": 13,
+      "goal_difference": 0,
+      "points": 14
+    },
+    {
+      "team": "Chennaiyin",
+      "played": 11,
+      "wins": 3,
+      "draws": 3,
+      "losses": 5,
+      "goals_for": 16,
+      "goals_against": 18,
+      "goal_difference": -2,
+      "points": 12
+    },
+    {
+      "team": "Kerala Blasters",
+      "played": 11,
+      "wins": 3,
+      "draws": 2,
+      "losses": 6,
+      "goals_for": 17,
+      "goals_against": 21,
+      "goal_difference": -4,
+      "points": 11
+    },
+    {
+      "team": "East Bengal",
+      "played": 9,
+      "wins": 2,
+      "draws": 1,
+      "losses": 6,
+      "goals_for": 7,
+      "goals_against": 12,
+      "goal_difference": -5,
+      "points": 7
+    },
+    {
+      "team": "Hyderabad",
+      "played": 10,
+      "wins": 2,
+      "draws": 1,
+      "losses": 7,
+      "goals_for": 7,
+      "goals_against": 19,
+      "goal_difference": -12,
+      "points": 7
+    },
+    {
+      "team": "Mohammedan",
+      "played": 10,
+      "wins": 1,
+      "draws": 2,
+      "losses": 7,
+      "goals_for": 5,
+      "goals_against": 18,
+      "goal_difference": -13,
+      "points": 5
+    }
+  ]
+}

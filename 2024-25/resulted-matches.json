@@ -1,0 +1,69 @@
+{
+  "team": "Kerala Blasters",
+  "resulted_matches": [
+    {
+      "date": "August 19, 2024",
+      "dateinnum": "19/08/2024",
+      "opponent": "Bengaluru FC",
+      "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
+      "result": "Lost 0-1",
+      "competition": "Durand Cup"
+    },
+    {
+      "date": "August 23, 2024",
+      "dateinnum": "23/08/2024",
+      "opponent": "Bengaluru FC",
+      "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
+      "result": "Won 3-2",
+      "competition": "Durand Cup"
+    },
+    {
+      "date": "September 5, 2024",
+      "dateinnum": "05/09/2024",
+      "opponent": "Mumbai City FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Won 4-2",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "October 7, 2024",
+      "dateinnum": "07/10/2024",
+      "opponent": "Jamshedpur FC",
+      "venue": "JRD Tata Sports Complex, Jamshedpur",
+      "result": "Draw 1-1",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "October 21, 2024",
+      "dateinnum": "21/10/2024",
+      "opponent": "East Bengal FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Won 3-2",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "October 25, 2024",
+      "dateinnum": "25/10/2024",
+      "opponent": "Mumbai City FC",
+      "venue": "Mumbai Football Arena, Mumbai",
+      "result": "Lost 1-4",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "November 3, 2024",
+      "dateinnum": "03/11/2024",
+      "opponent": "Bengaluru FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Draw 1-1",
+      "competition": "Indian Super League"
+    },
+    {
+      "date": "November 7, 2024",
+      "dateinnum": "07/11/2024",
+      "opponent": "Hyderabad FC",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Lost 0-2",
+      "competition": "Indian Super League"
+    }
+  ]
+}
