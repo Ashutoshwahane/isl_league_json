@@ -1,4 +1,3 @@
-
 {
   "Kerala Blasters FC": {
     "Forwards": [
@@ -7,6 +6,7 @@
         "position": "Forward",
         "age": 31,
         "nationality": "Uruguay",
+        "jersey_number": 10,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Adri%C3%A1n%20Luna.jpg"
       },
       {
@@ -14,6 +14,7 @@
         "position": "Forward",
         "age": 28,
         "nationality": "Australia",
+        "jersey_number": 7,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Jaushua%20Sotirio.jpg"
       },
       {
@@ -21,6 +22,7 @@
         "position": "Forward",
         "age": 30,
         "nationality": "Spain",
+        "jersey_number": 9,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Jes%C3%BAs%20Jim%C3%A9nez.jpg"
       },
       {
@@ -28,6 +30,7 @@
         "position": "Forward",
         "age": 22,
         "nationality": "Ghana",
+        "jersey_number": 11,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Kwame%20Peprah.jpg"
       }
     ],
@@ -37,6 +40,7 @@
         "position": "Midfielder",
         "age": 24,
         "nationality": "India",
+        "jersey_number": 21,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Bryce%20Miranda.jpg"
       },
       {
@@ -44,6 +48,7 @@
         "position": "Midfielder",
         "age": 27,
         "nationality": "India",
+        "jersey_number": 14,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Danish%20Farooq.jpg"
       },
       {
@@ -51,6 +56,7 @@
         "position": "Midfielder",
         "age": 29,
         "nationality": "Morocco",
+        "jersey_number": 8,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Noah%20Sadaoui.jpg"
       },
       {
@@ -58,6 +64,7 @@
         "position": "Midfielder",
         "age": 20,
         "nationality": "India",
+        "jersey_number": 16,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Vibin%20Mohanan.jpg"
       }
     ],
@@ -67,6 +74,7 @@
         "position": "Defender",
         "age": 27,
         "nationality": "India",
+        "jersey_number": 4,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Aibanbha%20Dohling.jpg"
       },
       {
@@ -74,6 +82,7 @@
         "position": "Defender",
         "age": 31,
         "nationality": "France",
+        "jersey_number": 6,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Alexandre%20Coeff.jpg"
       },
       {
@@ -81,6 +90,7 @@
         "position": "Defender",
         "age": 24,
         "nationality": "India",
+        "jersey_number": 5,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Bijoy%20V.jpg"
       },
       {
@@ -88,6 +98,7 @@
         "position": "Defender",
         "age": 30,
         "nationality": "India",
+        "jersey_number": 2,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Pritam%20Kotal.png"
       }
     ],
@@ -97,6 +108,7 @@
         "position": "Goalkeeper",
         "age": 22,
         "nationality": "India",
+        "jersey_number": 1,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Sachin%20Suresh.png"
       },
       {
@@ -104,6 +116,7 @@
         "position": "Goalkeeper",
         "age": 25,
         "nationality": "India",
+        "jersey_number": 23,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Nora%20Fernandes.jpg"
       },
       {
@@ -111,6 +124,7 @@
         "position": "Goalkeeper",
         "age": 21,
         "nationality": "India",
+        "jersey_number": 13,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Som%20Kumar.jpg"
       }
     ]
