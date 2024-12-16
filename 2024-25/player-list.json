@@ -1,6 +1,6 @@
 {
   "Kerala Blasters FC": {
-    "Forwards": [
+    "players": [
       {
         "name": "Adrián Luna",
         "position": "Forward",
@@ -32,9 +32,7 @@
         "nationality": "Ghana",
         "jersey_number": 11,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Kwame%20Peprah.jpg"
-      }
-    ],
-    "Midfielders": [
+      },
       {
         "name": "Bryce Miranda",
         "position": "Midfielder",
@@ -66,9 +64,7 @@
         "nationality": "India",
         "jersey_number": 16,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Vibin%20Mohanan.jpg"
-      }
-    ],
-    "Defenders": [
+      },
       {
         "name": "Aibanbha Dohling",
         "position": "Defender",
@@ -100,9 +96,7 @@
         "nationality": "India",
         "jersey_number": 2,
         "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Pritam%20Kotal.png"
-      }
-    ],
-    "Goalkeepers": [
+      },
       {
         "name": "Sachin Suresh",
         "position": "Goalkeeper",
