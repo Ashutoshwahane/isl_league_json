@@ -1,0 +1,118 @@
+
+{
+  "Kerala Blasters FC": {
+    "Forwards": [
+      {
+        "name": "Adrián Luna",
+        "position": "Forward",
+        "age": 31,
+        "nationality": "Uruguay",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Adri%C3%A1n%20Luna.jpg"
+      },
+      {
+        "name": "Jaushua Sotirio",
+        "position": "Forward",
+        "age": 28,
+        "nationality": "Australia",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Jaushua%20Sotirio.jpg"
+      },
+      {
+        "name": "Jesús Jiménez",
+        "position": "Forward",
+        "age": 30,
+        "nationality": "Spain",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Jes%C3%BAs%20Jim%C3%A9nez.jpg"
+      },
+      {
+        "name": "Kwame Peprah",
+        "position": "Forward",
+        "age": 22,
+        "nationality": "Ghana",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Kwame%20Peprah.jpg"
+      }
+    ],
+    "Midfielders": [
+      {
+        "name": "Bryce Miranda",
+        "position": "Midfielder",
+        "age": 24,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Bryce%20Miranda.jpg"
+      },
+      {
+        "name": "Danish Farooq",
+        "position": "Midfielder",
+        "age": 27,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Danish%20Farooq.jpg"
+      },
+      {
+        "name": "Noah Sadaoui",
+        "position": "Midfielder",
+        "age": 29,
+        "nationality": "Morocco",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Noah%20Sadaoui.jpg"
+      },
+      {
+        "name": "Vibin Mohanan",
+        "position": "Midfielder",
+        "age": 20,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Vibin%20Mohanan.jpg"
+      }
+    ],
+    "Defenders": [
+      {
+        "name": "Aibanbha Dohling",
+        "position": "Defender",
+        "age": 27,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Aibanbha%20Dohling.jpg"
+      },
+      {
+        "name": "Alexandre Coeff",
+        "position": "Defender",
+        "age": 31,
+        "nationality": "France",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Alexandre%20Coeff.jpg"
+      },
+      {
+        "name": "Bijoy V",
+        "position": "Defender",
+        "age": 24,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Bijoy%20V.jpg"
+      },
+      {
+        "name": "Pritam Kotal",
+        "position": "Defender",
+        "age": 30,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Pritam%20Kotal.png"
+      }
+    ],
+    "Goalkeepers": [
+      {
+        "name": "Sachin Suresh",
+        "position": "Goalkeeper",
+        "age": 22,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Sachin%20Suresh.png"
+      },
+      {
+        "name": "Nora Fernandes",
+        "position": "Goalkeeper",
+        "age": 25,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Nora%20Fernandes.jpg"
+      },
+      {
+        "name": "Som Kumar",
+        "position": "Goalkeeper",
+        "age": 21,
+        "nationality": "India",
+        "image": "https://raw.githubusercontent.com/yeshuwahane/isldata/refs/heads/main/2024-25/players/Som%20Kumar.jpg"
+      }
+    ]
+  }
+}
