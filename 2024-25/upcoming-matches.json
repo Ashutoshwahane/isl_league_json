@@ -8,7 +8,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45299.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "November 28, 2024",
@@ -17,7 +18,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45321.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "December 7, 2024",
@@ -26,7 +28,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/41030.png",
       "venue": "Sree Kanteerava Stadium, Bengaluru",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": false
     },
     {
       "date": "December 14, 2024",
@@ -35,7 +38,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/83266.png",
       "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": false
     },
     {
       "date": "December 22, 2024",
@@ -44,7 +48,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/37893.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "January 5, 2025",
@@ -53,7 +58,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/60816.png",
       "venue": "JRD Tata Sports Complex, Jamshedpur",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": false
     },
     {
       "date": "January 13, 2025",
@@ -62,7 +68,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45080.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "January 18, 2025",
@@ -71,7 +78,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45276.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "January 24, 2025",
@@ -80,7 +88,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/14099.png",
       "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": false
     },
     {
       "date": "March 7, 2025",
@@ -89,7 +98,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45274.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "March 12, 2025",
@@ -98,7 +108,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/76364.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "time": "7:30 PM",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     }
   ]
 }
