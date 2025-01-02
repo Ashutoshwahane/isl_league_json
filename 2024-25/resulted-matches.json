@@ -8,7 +8,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/41030.png",
       "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
       "result": "Lost 0-1",
-      "competition": "Durand Cup"
+      "competition": "Durand Cup",
+      "isHome": false
     },
     {
       "date": "September 5, 2024",
@@ -17,7 +18,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45274.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "result": "Won 4-2",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "October 7, 2024",
@@ -26,7 +28,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/60816.png",
       "venue": "JRD Tata Sports Complex, Jamshedpur",
       "result": "Draw 1-1",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": false
     },
     {
       "date": "November 3, 2024",
@@ -35,7 +38,8 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/41030.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "result": "Draw 1-1",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
     },
     {
       "date": "November 7, 2024",
@@ -44,7 +48,38 @@
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/76364.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "result": "Lost 0-2",
-      "competition": "Indian Super League"
+      "competition": "Indian Super League",
+      "isHome": true
+    },
+    {
+      "date": "November 24, 2024",
+      "dateinnum": "24/11/2024",
+      "opponent": "Chennaiyin",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45299.png",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Won 2-1",
+      "competition": "Indian Super League",
+      "isHome": true
+    },
+    {
+      "date": "December 22, 2024",
+      "dateinnum": "22/12/2024",
+      "opponent": "Mohammedan SC",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/37893.png",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Won 3-0",
+      "competition": "Indian Super League",
+      "isHome": true
+    },
+    {
+      "date": "December 29, 2024",
+      "dateinnum": "29/12/2024",
+      "opponent": "Jamshedpur",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/60816.png",
+      "venue": "JRD Tata Sports Complex, Jamshedpur",
+      "result": "Lost 0-1",
+      "competition": "Indian Super League",
+      "isHome": false
     }
   ]
 }
