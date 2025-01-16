@@ -85,11 +85,21 @@
       "date": "January 5, 2025",
       "dateinnum": "05/01/2025",
       "opponent": "Punjab FC",
-      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/12345.png",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/14099.png",
       "venue": "Guru Nanak Stadium, Ludhiana",
       "result": "Won 1-0",
       "competition": "Indian Super League",
       "isHome": false
+    },
+    {
+      "date": "January 10, 2025",
+      "dateinnum": "10/01/2025",
+      "opponent": "Odisha FC",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45080.png",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Draw 2-2",
+      "competition": "Indian Super League",
+      "isHome": true
     }
   ]
 }
