@@ -92,12 +92,23 @@
       "isHome": false
     },
     {
-      "date": "January 10, 2025",
-      "dateinnum": "10/01/2025",
+      "date": "January 13, 2025",
+      "dateinnum": "13/01/2025",
       "opponent": "Odisha FC",
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45080.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "result": "Draw 2-2",
+      "competition": "Indian Super League",
+      "isHome": true
+    }
+  ,
+    {
+      "date": "January 18, 2025",
+      "dateinnum": "18/01/2025",
+      "opponent": "NorthEast Utd",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45276.png",
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "result": "Draw 0-0",
       "competition": "Indian Super League",
       "isHome": true
     }
