@@ -100,17 +100,37 @@
       "result": "Draw 2-2",
       "competition": "Indian Super League",
       "isHome": true
-    }
-  ,
+    },
     {
       "date": "January 18, 2025",
       "dateinnum": "18/01/2025",
-      "opponent": "NorthEast Utd",
+      "opponent": "NorthEast United FC",
       "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45276.png",
       "venue": "Jawaharlal Nehru Stadium, Kochi",
       "result": "Draw 0-0",
       "competition": "Indian Super League",
       "isHome": true
+    },
+    {
+      "date": "January 24, 2025",
+      "dateinnum": "24/01/2025",
+      "opponent": "East Bengal FC",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45275.png",
+      "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
+      "result": "Lost 1-2",
+      "competition": "Indian Super League",
+      "isHome": false
+    },
+    {
+      "date": "January 30, 2025",
+      "dateinnum": "30/01/2025",
+      "opponent": "Chennaiyin FC",
+      "opponent_logo": "https://tmssl.akamaized.net//images/wappen/big/45299.png",
+      "venue": "Jawaharlal Nehru Stadium, Chennai",
+      "result": "Won 2-0",
+      "competition": "Indian Super League",
+      "isHome": false
     }
   ]
 }
+
